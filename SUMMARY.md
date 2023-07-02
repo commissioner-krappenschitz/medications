@@ -69,3 +69,7 @@
 ## Hospital Procedures Cheat Sheet
 
 * [Work-in-progress](hospital-procedures-cheat-sheet/work-in-progress.md)
+
+## Hospital Billings
+
+* [Work-in-progress](hospital-billings/work-in-progress.md)
