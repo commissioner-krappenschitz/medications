@@ -40,6 +40,13 @@
   * [Tranexamic Acid (TXA)](emt-paramedic-common-medications/ccp-medications/tranexamic-acid-txa.md)
   * [Vecuronium](emt-paramedic-common-medications/ccp-medications/vecuronium.md)
 
+## Documents Format
+
+* [Patient Chart Format](documents-format/patient-chart-format.md)
+* [Medication Chart Format](documents-format/medication-chart-format.md)
+* [Patient Physical Assessment Format](documents-format/patient-physical-assessment-format.md)
+* [Patient Discharge Plan](documents-format/patient-discharge-plan.md)
+
 ## Scene Cheat Sheet
 
 * [Purpose & Preface](scene-cheat-sheet/purpose-and-preface.md)
