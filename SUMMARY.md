@@ -58,3 +58,7 @@
   * [Burned Patients:](scene-cheat-sheet/basic-scene-cheat-sheet/burned-patients.md)
   * [Psych Questions](scene-cheat-sheet/basic-scene-cheat-sheet/psych-questions.md)
   * [Dead Patient](scene-cheat-sheet/basic-scene-cheat-sheet/dead-patient.md)
+
+## Hospital Procedures Cheat Sheet
+
+* [Work-in-progress](hospital-procedures-cheat-sheet/work-in-progress.md)
