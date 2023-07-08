@@ -72,4 +72,13 @@
 
 ## Hospital Billings
 
-* [Work-in-progress](hospital-billings/work-in-progress.md)
+* [Common Hospitalization Billing](hospital-billings/common-hospitalization-billing/README.md)
+  * [Patient Transport](hospital-billings/common-hospitalization-billing/patient-transport.md)
+  * [Paramedic Responses](hospital-billings/common-hospitalization-billing/paramedic-responses/README.md)
+    * [Gun-shot Wound (GSW)](hospital-billings/common-hospitalization-billing/paramedic-responses/gun-shot-wound-gsw.md)
+    * [Motor Vehicle Accident](hospital-billings/common-hospitalization-billing/paramedic-responses/motor-vehicle-accident.md)
+    * [Suicide](hospital-billings/common-hospitalization-billing/paramedic-responses/suicide.md)
+    * [Minor Injuries](hospital-billings/common-hospitalization-billing/paramedic-responses/minor-injuries.md)
+    * [Major Injuries / Major Calls](hospital-billings/common-hospitalization-billing/paramedic-responses/major-injuries-major-calls.md)
+  * [Minor Surgeries](hospital-billings/common-hospitalization-billing/minor-surgeries.md)
+  * [Major Surgeries](hospital-billings/common-hospitalization-billing/major-surgeries.md)
